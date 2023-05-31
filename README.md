@@ -392,7 +392,7 @@ No API activities were profiled.
 root@MidPC:/home/student/#
 
 ```
-![](cc.png)
+![](rr.png)
 ## Removing the memsets:
 ```
 root@MidPC:/home/student/Desktop# nvcc test.cu
@@ -418,6 +418,6 @@ No API activities were profiled.
 root@MidPC:/home/student/Desktop# ^C
 root@MidPC:/home/student/Desktop#
 ```
-![](dd.png)
+![](kk.png)
 ## Result:
 Thus Matrix addition with unified memory is done and its performance with nvprof is checked.

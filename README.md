@@ -21,8 +21,8 @@ Declare the main function. In the main function set up the device & data size of
 Execute the program and run the terminal . Check the performance using nvprof.
 ## Program:
 ```
-Developed By: G Venkata Pavan Kumar
-Reg.No: 212221240013
+Developed By: P.Ramsai
+Reg.No: 212221240041
 
 ```
 ```
